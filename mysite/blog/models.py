@@ -1,5 +1,3 @@
-from audioop import reverse
-from turtle import title
 from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
